@@ -1,0 +1,11 @@
+{
+  "counterTop": {
+    "loaf1": {
+      "type": "white",
+      "slices": "slice1"
+    },
+    "jar2": {
+      "contents": "JELLY"
+    }
+  }
+}

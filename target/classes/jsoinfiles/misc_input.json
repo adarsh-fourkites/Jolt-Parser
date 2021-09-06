@@ -1,0 +1,19 @@
+{
+  "breadbox": {
+    "loaf1": {
+      "type": "white"
+    },
+    "loaf2": {
+      "type": "wheat"
+    }
+  },
+  "fridge": {
+    "jar1": {
+      "contents": "peanut butter"
+    },
+    "jar2": {
+      "contents": "jelly",
+      "expiration": "25-APR-2019"
+    }
+  }
+}

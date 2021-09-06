@@ -1,0 +1,19 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "breadbox": "counterTop",
+      "fridge": "counterBottom"
+    },
+    "operation": "default",
+    "spec": {
+      "breadbox": {
+        "loaf1": {
+          "slices": [
+            "slice1", "slice2", "slice3"
+          ]
+        }
+      }
+    }
+  }
+]

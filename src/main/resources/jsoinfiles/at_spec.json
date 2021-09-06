@@ -1,0 +1,25 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "fridge": {
+        "jar2": {
+          "contents" : "Garbage",
+          "@0": "Garbage0",
+          "@1": "Garbage1",
+          "@2": "Garbage2"
+        }
+      }
+    }
+  },
+  {
+    "operation": "shift",
+    "spec": {
+      "*": {
+        "jar*": {
+          "@(0,contents)": "Things in jars"
+        }
+      }
+    }
+  }
+]

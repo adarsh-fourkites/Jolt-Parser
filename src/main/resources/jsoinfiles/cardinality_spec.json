@@ -1,0 +1,12 @@
+[
+  {
+    "operation": "cardinality",
+    "spec": {
+      "counterTop": {
+        "loaf1": {
+          "slices": "ONE"
+        }
+      }
+    }
+  }
+]

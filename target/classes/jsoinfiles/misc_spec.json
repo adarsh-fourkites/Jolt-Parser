@@ -1,0 +1,16 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "fridge": {
+        "jar2": {
+          "expiration": {
+            "*-*-*": {
+              "$(0,3)": "expiry.year"
+            }
+          }
+        }
+      }
+    }
+  }
+]

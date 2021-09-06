@@ -1,0 +1,11 @@
+[
+  {
+    "operation": "remove",
+    "spec": {
+      "counterTop": {
+        "loaf2": "",
+        "jar2": ""
+      }
+    }
+  }
+]

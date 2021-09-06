@@ -1,0 +1,4 @@
+alias make_test="export RAILS_ENV=test"
+-> add this to .zshrc
+-> can echo $RAILS_DEV -> will print test.
+
